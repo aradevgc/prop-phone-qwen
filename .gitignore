@@ -1,0 +1,36 @@
+# Examples of valid .gitignore patterns for common build artifacts, dependencies,
+# and temporary files. Adjust according to your specific project needs.
+#
+# Dependencies
+# node_modules/
+# venv/
+# .venv/
+# __pycache__/
+# .mypy_cache/
+# .pytest_cache/
+# target/
+# .gradle/
+#
+# Build artifacts
+# dist/
+# build/
+# .DS_Store
+# Thumbs.db
+#
+# Logs
+# *.log
+# coverage/
+# htmlcov/
+# .coverage
+#
+# Environment
+# .env
+# .env.local
+# *.env.*
+#
+# Editors
+# .vscode/
+# .idea/
+# *.swp
+# *.swo
+# *.tmp
